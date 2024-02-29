@@ -4,16 +4,16 @@
     src: url('./montserrat/Montserrat-Bold.otf');
 }
 
-@font-face {
+/*@font-face {
     font-family: montserrat;
     src: url('./montserrat/Montserrat-Regular.otf');
     font-weight: normal;
-}
+}*/
 
 @font-face {
     font-family: montserrat;
     src: url('./montserrat/Montserrat-Black.otf');
-    font-weight: bolder;
+    font-weight: normal;
 }
 
 body {
