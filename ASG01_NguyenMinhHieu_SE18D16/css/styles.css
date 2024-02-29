@@ -24,7 +24,6 @@ body {
 	box-sizing: border-box;
 	border: none;
 	outline: 0;
-	font-weight: inherit;
 	font-style: inherit;
 	vertical-align: baseline;
 	text-decoration: none;
@@ -37,7 +36,6 @@ body {
 
 .cv-page {
     outline: 0;
-    font-weight: inherit;
     font-style: inherit;
     font-size: 100%;
     vertical-align: baseline;
